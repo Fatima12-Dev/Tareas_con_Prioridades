@@ -17,5 +17,5 @@ namespace Tareas_con_Prioridades
     }
 
     public enum Prioridad { Alta, Media, Baja }
-    public enum EstadoTarea { Todos, Pendiente, EnProgreso, Completada }
+    public enum EstadoTarea { Pendiente, EnProgreso, Completada }
 }
